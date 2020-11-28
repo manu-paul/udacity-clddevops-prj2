@@ -1,8 +1,8 @@
 # udacity-clddevops-prj2
-Deploy a high-availability web app using CloudFormation
+Deploy a high-availability web app using CloudFormation\n\n
 
 Files Details:
-Udagram-Infra.jpeg : AWS infrastructure diagram
+Udagram-Infra.jpeg : AWS infrastructure diagram\n
 create.sh : Cloudformation create stack script 
 update.sh : Cloudformation update stack script 
 Udagram-network.yml : CloudFormation script for Udagram network infrastrucute
