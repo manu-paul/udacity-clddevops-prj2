@@ -1,6 +1,9 @@
 # udacity-clddevops-prj2
 Deploy a high-availability web app using CloudFormation<br>
 
+Application URL - http://udagr-webap-1vy7kbkvslq2h-140913084.us-west-2.elb.amazonaws.com/<br>
+
+
 Files Details:<br>
 Udagram-Infra.jpeg : AWS infrastructure diagram<br>
 create.sh : Cloudformation create stack script <br>
